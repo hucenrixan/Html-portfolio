@@ -1,2 +1,2 @@
-# Html-portfolio
+# html-portfolio
 Rizan Portfolio 
